@@ -4,6 +4,11 @@
 
 This project analyzes and processes the **News Category Dataset** from Kaggle. The dataset consists of news articles categorized into different topics. The notebook includes data preprocessing, vectorization, and a recommendation system.
 
+## Video Demo
+[![Watch the demo video](https://img.youtube.com/vi/IM1ZOGOwegQ/0.jpg)](https://www.youtube.com/watch?v=IM1ZOGOwegQ)
+
+
+
 ## Dataset
 
 - **Source:** [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)
@@ -29,6 +34,14 @@ This project analyzes and processes the **News Category Dataset** from Kaggle. T
    pip install -r requirements.txt
    ```
 3. Ensure you have Kaggle API access set up to download the dataset.
+
+## Dependencies
+
+- Python 3.x
+- Pandas
+- NumPy
+- Kaggle API
+
 
 ## Usage
 
@@ -73,16 +86,11 @@ Below is an example output of the news recommender system:
 - **[Read More](https://www.huffingtonpost.com/entry/will-and-kate-anniversary_us_5b9ba2a3e4b03a1dcc79328e)
 
 
-Run the Jupyter Notebook:
 
-```sh
-jupyter notebook solution.ipynb
-```
 
-## Dependencies
+## Desired compensation
+4500 USD/month
 
-- Python 3.x
-- Pandas
-- NumPy
-- Kaggle API
+## Contact
+Email ID - ggandhikumar@ucsd.edu
 
